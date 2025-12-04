@@ -199,5 +199,5 @@ Project created as part of developing data analytics skills in:
 - Dashboard design  
 
 LinkedIn: *(www.linkedin.com/in/oskar-warcholiński-0b1806288)*  
-GitHub: *(https://github.com/qerty43)*
+GitHub: *(https://github.com/warcholinskioskar-debug)*
 
