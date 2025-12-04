@@ -198,6 +198,6 @@ Project created as part of developing data analytics skills in:
 - DAX  
 - Dashboard design  
 
-LinkedIn: *(add your link here)*  
-GitHub: *(add your username here)*
+LinkedIn: *(www.linkedin.com/in/oskar-warcholiński-0b1806288)*  
+GitHub: *(https://github.com/qerty43)*
 
